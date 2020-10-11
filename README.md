@@ -1,7 +1,7 @@
 <h1 align="center">console.log("Luis Gerardo")</h1>
 <h3 align="center">Me apasiona el desarrollo web, movil </h3>
 
--  Actualmente estoy aprendiendo **php**
+-  Actualmente estoy aprendiendo **Node.js**
 
 -  Como contactarme **rivera.rivera.gerardo.luis@gmail.com**
 
