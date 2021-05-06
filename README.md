@@ -78,18 +78,7 @@
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lgerardo685&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=LuisGRR&&style=flat-square" align="center" />
-</div>  
-  
+    
 
 <br/>  
 
